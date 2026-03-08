@@ -20,5 +20,5 @@ This directory contains our artistic submissions for the **CVPR 2026 Art Gallery
 *   **Exhibition**: June 5 – 7, 2026
 
 ## Contact
-*   **Team**: [Your Name/Team Name]
-*   **Inquiries**: cvpr.aiartgallery@gmail.com (Official Gallery Contact)
+*   **Team**: 
+*   **Inquiries**: 
